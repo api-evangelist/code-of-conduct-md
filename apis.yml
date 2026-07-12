@@ -70,6 +70,8 @@ x-related-files:
   - LICENSE
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/code-of-conduct-md-domain-security.yml
   - type: Specification
     url: https://www.contributor-covenant.org/version/2/1/code_of_conduct/
   - type: Reference
