@@ -2,6 +2,7 @@ aid: code-of-conduct-md
 url: >-
   https://raw.githubusercontent.com/api-evangelist/code-of-conduct-md/refs/heads/main/apis.yml
 name: CODE_OF_CONDUCT.md
+x-type: convention
 tags:
   - Community
   - Contributor Covenant
@@ -44,7 +45,7 @@ access: 3rd-Party
 kind: standard
 created: '2025-01-01'
 modified: '2026-04-26'
-position: Consumer
+position: Consuming
 description: >-
   CODE_OF_CONDUCT.md is the de-facto repository file used by open-source
   projects on GitHub, GitLab, and similar platforms to declare community
