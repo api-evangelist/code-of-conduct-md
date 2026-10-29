@@ -1,4 +1,4 @@
-# CODE_OF_CONDUCT.md (code-of-conduct-md)
+# CODE_OF_CONDUCT.md
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,90 +64,43 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-CODE_OF_CONDUCT.md is the de-facto repository file used by open-source projects on GitHub, GitLab, and similar platforms to declare community standards, acceptable behavior, and enforcement procedures for project participants. The most widely adopted text dropped into this file is the Contributor Covenant, currently at version 2.1, maintained by the Organization for Ethical Source. GitHub surfaces a CODE_OF_CONDUCT.md located in the repo root, `.github/`, or `docs/` directory in its Community Standards checklist and links to it from issue templates.
+CODE_OF_CONDUCT.md is the de-facto repository file used by open-source projects on GitHub, GitLab, and similar platforms to declare community standards, acceptable behavior, and enforcement procedures for project participants. The most widely adopted text dropped into this file is the Contributor Covenant, currently at version 2.1, maintained by the Organization for Ethical Source. GitHub surfaces a CODE_OF_CONDUCT.md located in the repo root, .github/, or docs/ directory in its Community Standards checklist and links to it from issue templates. The file is plain Markdown and has no machine-readable schema, but it is structurally consistent across the dominant template (Contributor Covenant) and a small number of alternatives (Citizen Code of Conduct, Django Code of Conduct, Mozilla Community Participation Guidelines).
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/code-of-conduct-md/refs/heads/main/apis.yml)
+**Areas:** Community · Contributor Covenant · Governance · Open Source · Repository File · Standards
 
-## Scope
+## CODE_OF_CONDUCT.md on APIs.io
 
-- **Type:** Index (Standard)
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Everything profiled for CODE_OF_CONDUCT.md is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/code-of-conduct-md/](https://apis.io/providers/code-of-conduct-md/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### Published properties
 
-- Community
-- Contributor Covenant
-- Governance
-- Open Source
-- Repository File
-- Standards
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Status
+#### Security (1)
 
-- **Status:** De facto convention
-- **Canonical template:** Contributor Covenant 2.1
-- **License (template):** CC BY 4.0
+Authentication, trust centre, and vulnerability disclosure.
 
-## Discovery
+- [Code Of Conduct Md Domain Security](https://apis.io/security/code-of-conduct-md/code-of-conduct-md-domain-security/)
 
-GitHub looks for `CODE_OF_CONDUCT.md` in three locations, in order:
+## Where to find this API
 
-1. Repository root
-2. `.github/`
-3. `docs/`
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-The first match is surfaced on the repo's Community Standards page and linked from issue and PR templates. GitHub also offers a one-click picker under Insights -> Community Standards.
+- [Website](https://www.contributor-covenant.org/)
+- [Documentation](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project)
 
-## Typical Sections
+## API Evangelist rating
 
-A Contributor Covenant 2.1 file typically contains:
+Not yet rated. See [apis.io/providers/code-of-conduct-md/](https://apis.io/providers/code-of-conduct-md/).
 
-- Our Pledge
-- Our Standards (positive examples and unacceptable behavior)
-- Enforcement Responsibilities
-- Scope
-- Enforcement (contact email and reporting flow)
-- Enforcement Guidelines (Community Impact Ladder)
-- Attribution
+## How this profile is made
 
-## Enforcement Ladder (Contributor Covenant 2.1)
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-| Level | Community Impact | Consequence |
-| --- | --- | --- |
-| 1. Correction | Use of inappropriate language or unprofessional behavior | Private written warning; public apology may be requested |
-| 2. Warning | A violation through a single incident or series of actions | Warning; no interaction with affected parties for a specified period |
-| 3. Temporary Ban | A serious violation of community standards | Temporary ban from any public interaction with the community |
-| 4. Permanent Ban | Pattern of violations, harassment, or aggression | Permanent ban from any public interaction within the community |
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for CODE_OF_CONDUCT.md: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-## Related Repository Files
+## Open an issue
 
-- `CONTRIBUTING.md` - how to contribute
-- `SECURITY.md` - vulnerability reporting
-- `GOVERNANCE.md` - decision making
-- `SUPPORT.md` - support channels
-- `CODEOWNERS` - review ownership
-- `LICENSE` - copyright terms
-
-## Common Properties
-
-- [Specification (Contributor Covenant 2.1)](https://www.contributor-covenant.org/version/2/1/code_of_conduct/)
-- [Reference Markdown](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md)
-- [Contributor Covenant Website](https://www.contributor-covenant.org/)
-- [Translations](https://www.contributor-covenant.org/translations/)
-- [GitHub: Adding a Code of Conduct](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project)
-- [GitHub: Community Management and Moderation](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/about-community-management-and-moderation)
-- [Citizen Code of Conduct (alternative)](https://citizencodeofconduct.org/)
-- [Django Code of Conduct (alternative)](https://www.djangoproject.com/conduct/)
-- [Mozilla Community Participation Guidelines (alternative)](https://www.mozilla.org/en-US/about/governance/policies/participation/)
-- [License: CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-
-## Notes
-
-CODE_OF_CONDUCT.md is human-readable Markdown with no machine-readable schema. No OpenAPI specification, JSON-LD vocabulary, Spectral ruleset, or Naftiko capability bundle is published for this profile because there is no API or structured contract to validate.
-
-## Maintainers
-
-**FN:** Kin Lane
-
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/code-of-conduct-md/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
